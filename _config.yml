@@ -1,18 +1,2 @@
-# Site Settings
-title: Wen-Chieh Fang
-email: mdic.deep@gmail.com
-description: >
-    Wen-Chieh Fang is an assistant professor in CSIE at National Chiayi University (NCYU).
-    He graduated from NTU with a Ph.D. His research interests include machine learing, 
-    data science, time-series analysis, and artificial intelligence.
-baseurl: "/myblog"
-url: "http://ncyu-deep.github.io"
-#twitter_username: taniarascia
-#github_username:  taniarascia
-# Build Settings
-sass:
-  sass_dir: _sass
-include: ['_pages']
-kramdown:
-  input: GFM
-port: 4444
+baseurl:
+port: 4444    
