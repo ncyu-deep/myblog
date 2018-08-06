@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My software
+title: My teaching
 ---
 
 * Fall 2018, Social Networks and Recommender systems

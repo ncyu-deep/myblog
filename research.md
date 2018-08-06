@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My stuff
+title: My research
 ---
 
 My research interests include data science, machine learning, time-series analysis, and Informatics of traditional
