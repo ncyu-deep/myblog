@@ -9,7 +9,7 @@ title: My lab
 
 <h2 style="text-align: center">Master students</h2>
 
-<img src="lu.png" align="left" style="margin-top:5px; margin-right:81px" alt="lu" width="42" />
+<img src="lu.png" align="left" style="margin-top:5px; margin-right:81px" alt="lu"/>
 
 姓名: 呂明育
 
