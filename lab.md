@@ -21,9 +21,9 @@ title: My lab
 
 研究主題: 藉由圖像辨識的技術,來搜索農園裡的相關物件,建立一座智慧農園
 
+<br/>
+<br/>
 <hr>
-
-
 
 <h2 style="text-align: center">Note</h2>
 
