@@ -3,7 +3,7 @@ layout: default
 title: My publications
 ---
 
-Article
+<h2 style="text-align: center">Article</h2>
 
 * Wen-Chieh Fang, Yi-ting Chiang, “A Discriminative Feature Mapping Approach
 to Heterogeneous Domain Adaptation,” Pattern Recognition Letters, vol. 106,
@@ -57,7 +57,7 @@ Applications (TAAI 2006), 2006.
 
 <hr>
 
-Poster
+<h2 style="text-align: center">Poster</h2>
 
 * Wen-Chieh Fang, Huan-Jui Chang, Chen Yang, Hsih-Te Yang, Jung-Hsien
 Chiang, “A Boosting Approach to Predicting ALSFRS Slope for the PRO-ACT
@@ -71,7 +71,7 @@ ence on Regulatory and Systems Genomics, with DREAM Challenges, 2015. [link](htt
 
 <hr>
 
-Patent
+<h2 style="text-align: center">Patent</h2>
 
 * Hsien-Hui Tang, Wen-Jong Wu, Yueh-Hsien Lin, Chih-Ying Yang, Yang-
 Bee Lee, Wen-Chieh Fang, Mu-Chern Fong, Cheng-Wei Chen, Gwen Hsiao,
