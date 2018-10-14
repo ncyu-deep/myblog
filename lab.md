@@ -23,6 +23,8 @@ title: My lab
 
 <br/>
 
+<br/>
+
 <hr>
 
 <h2 style="text-align: center">Undergraduate students (Independent study)</h2>
@@ -36,6 +38,8 @@ title: My lab
 電子信箱: s9352816@gmail.com
 
 研究興趣: 機器預測
+
+<br/>
 
 <br/>
 
