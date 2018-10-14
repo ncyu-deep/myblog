@@ -23,8 +23,6 @@ title: My lab
 
 <br/>
 
-<br/>
-
 <hr>
 
 <h2 style="text-align: center">Undergraduate students (Independent study)</h2>
