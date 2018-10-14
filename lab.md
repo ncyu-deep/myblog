@@ -23,3 +23,28 @@ title: My lab
 
 <br/>
 
+<h2 style="text-align: center">Undergraduate students (Independent study)</h2>
+
+<img src="lin.png" align="left" style="margin-top:5px; margin-right:81px" alt="lin"/>
+
+姓名: 林桂梅
+
+年級: 大學部三年級
+
+電子信箱: s9352816@gmail.com
+
+研究興趣: 機器預測
+
+<br/>
+
+<img src="huang.png" align="left" style="margin-top:5px; margin-right:81px" alt="huang"/>
+
+姓名: 黃珮華
+
+年級: 大學部三年級
+
+電子信箱: ilu6361972@gmail.com
+
+研究興趣: 資料探勘
+
+<br/>
