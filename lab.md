@@ -52,3 +52,29 @@ title: My lab
 研究興趣: 資料探勘
 
 <br/>
+
+<img src="ou.png" align="left" style="margin-top:5px; margin-right:81px" alt="ou"/>
+
+姓名: 歐宇哲
+
+年級: 大學部三年級
+
+電子信箱: e96031001@gmail.com
+
+研究興趣: 機器學習與預測分析
+
+<br/>
+
+<img src="chen.png" align="left" style="margin-top:5px; margin-right:81px" alt="chen"/>
+
+姓名: 陳品澔
+
+年級: 大學部三年級
+
+電子信箱: s1052992@mail.ncyu.edu.tw
+
+研究興趣: 機器學習
+
+<br/>
+
+
