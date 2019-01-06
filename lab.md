@@ -53,6 +53,8 @@ title: My lab
 
 <br/>
 
+<br/>
+
 <img src="ou.png" align="left" style="margin-top:5px; margin-right:81px" alt="ou"/>
 
 姓名: 歐宇哲
@@ -62,6 +64,8 @@ title: My lab
 電子信箱: e96031001@gmail.com
 
 研究興趣: 機器學習與預測分析
+
+<br/>
 
 <br/>
 
