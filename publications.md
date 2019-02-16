@@ -5,7 +5,7 @@ title: My publications
 
 <h2 style="text-align: center">Article</h2>
 
-* Robert Küffner, Neta Zach, Maya Bronfeld, Raquel Norel, Nazem Atassi, Venkat Balagurusamy, Barbara di Camillo, Adriano Chio, Merit Cudkowicz, Donna Dillenberger, Javier Garcia-Garcia, Orla Hardiman, Bruce Hoff, Joshua Knight, Melanie Leitner, Guang Li, Lara Mangravite, Thea Norman, Liuxia Wang, ALS stratification consortium, Jinfeng Xiao, Wen-Chieh Fang, Jian Peng, Chen Yang, Huan-Jui Chang, and Gustavo Stolovitzky, “Stratification of amyotrophic lateral sclerosis patients: a crowdsourcing approach,” Scientific Reports, accepted. (SCI journal, 5-year impact factor:4.609). [link](https://www.nature.com/articles/s41598-018-36873-4)
+* Robert Küffner, Neta Zach, Maya Bronfeld, Raquel Norel, Nazem Atassi, Venkat Balagurusamy, Barbara di Camillo, Adriano Chio, Merit Cudkowicz, Donna Dillenberger, Javier Garcia-Garcia, Orla Hardiman, Bruce Hoff, Joshua Knight, Melanie Leitner, Guang Li, Lara Mangravite, Thea Norman, Liuxia Wang, ALS stratification consortium, Jinfeng Xiao, Wen-Chieh Fang, Jian Peng, Chen Yang, Huan-Jui Chang, and Gustavo Stolovitzky, “Stratification of amyotrophic lateral sclerosis patients: a crowdsourcing approach,” Scientific Reports, vol. 9, Article number:690, 2019. (SCI journal, 5-year impact factor:4.609). [link](https://www.nature.com/articles/s41598-018-36873-4)
 * Wen-Chieh Fang, Yi-ting Chiang, “A Discriminative Feature Mapping Approach
 to Heterogeneous Domain Adaptation,” Pattern Recognition Letters, vol. 106,
 pp. 13-19, 2018. (SCI journal, 5-year impact factor: 2.350, Top pattern recognition
