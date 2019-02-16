@@ -7,22 +7,6 @@ title: My lab
 
 <hr>
 
-<h2 style="text-align: center">Master students</h2>
-
-<img src="lu.png" align="left" style="margin-top:5px; margin-right:81px" alt="lu"/>
-
-姓名: 呂明育
-
-年級: 碩士班一年級
-
-電子信箱: mebius31111@gmail.com
-
-研究興趣: 以深度學習為基礎,藉由圖像辨識來搜索物件
-
-研究主題: 藉由圖像辨識的技術,來搜索農園裡的相關物件,建立一座智慧農園
-
-<br/>
-
 <hr>
 
 <h2 style="text-align: center">Undergraduate students (Independent study)</h2>
@@ -81,4 +65,19 @@ title: My lab
 
 <br/>
 
+<h2 style="text-align: center">Alumni</h2>
+
+<img src="lu.png" align="left" style="margin-top:5px; margin-right:81px" alt="lu"/>
+
+姓名: 呂明育
+
+<!--年級: 碩士班一年級-->
+
+電子信箱: mebius31111@gmail.com
+
+研究興趣: 以深度學習為基礎,藉由圖像辨識來搜索物件
+
+研究主題: 藉由圖像辨識的技術,來搜索農園裡的相關物件,建立一座智慧農園
+
+<br/>
 
