@@ -7,8 +7,6 @@ title: My lab
 
 <hr>
 
-<hr>
-
 <h2 style="text-align: center">Undergraduate students (Independent study)</h2>
 
 <img src="lin.png" align="left" style="margin-top:5px; margin-right:81px" alt="lin"/>
@@ -64,6 +62,8 @@ title: My lab
 研究興趣: 機器學習
 
 <br/>
+
+<hr>
 
 <h2 style="text-align: center">Alumni</h2>
 
