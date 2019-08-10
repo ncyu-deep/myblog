@@ -7,9 +7,9 @@ title: My lab
 
 <hr>
 
-<h2 style="text-align: center">Master students (Independent study)</h2>
+<h2 style="text-align: center">Master students</h2>
 
-<img src="Jin-Xian.png" align="left" style="margin-top:5px; margin-right:81px" alt="lin"/>
+<img src="Jin-Xian.png" align="left" style="margin-top:5px; margin-right:81px" alt="Jin-Xian"/>
 
 姓名: 張敬賢
 
@@ -23,6 +23,7 @@ title: My lab
 
 <br/>
 
+<hr>
 
 <h2 style="text-align: center">Undergraduate students (Independent study)</h2>
 
