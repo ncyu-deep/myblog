@@ -7,6 +7,23 @@ title: My lab
 
 <hr>
 
+<h2 style="text-align: center">Master students (Independent study)</h2>
+
+<img src="Jin-Xian.png" align="left" style="margin-top:5px; margin-right:81px" alt="lin"/>
+
+姓名: 張敬賢
+
+年級: 碩士班一年級
+
+電子信箱: jim30425@gmail.com
+
+研究興趣: 機器學習
+
+<br/>
+
+<br/>
+
+
 <h2 style="text-align: center">Undergraduate students (Independent study)</h2>
 
 <img src="lin.png" align="left" style="margin-top:5px; margin-right:81px" alt="lin"/>
