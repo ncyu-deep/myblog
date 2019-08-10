@@ -9,7 +9,7 @@ title: My lab
 
 <h2 style="text-align: center">Master students</h2>
 
-<img src="Jin-Xian.png" align="left" style="margin-top:5px; margin-right:81px" alt="Jin-Xian"/>
+<img src="xian.png" align="left" style="margin-top:5px; margin-right:81px" alt="Jin-Xian"/>
 
 姓名: 張敬賢
 
