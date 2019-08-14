@@ -23,6 +23,20 @@ title: My lab
 
 <br/>
 
+<img src="Pei-Hsin.png" align="left" style="margin-top:5px; margin-right:81px" alt="Jin-Xian"/>
+
+姓名: 謝佩欣
+
+年級: 碩士班一年級
+
+電子信箱: student70226@gmail.com
+
+研究興趣: 深度學習
+
+<br/>
+
+<br/>
+
 <hr>
 
 <h2 style="text-align: center">Undergraduate students (Independent study)</h2>
