@@ -15,7 +15,7 @@ title: My lab
 
 年級: 碩士班一年級
 
-電子信箱: <jim30425@gmail.com>
+電子信箱: jim30425[at]gmail.com
 
 研究興趣: 機器學習
 
@@ -29,7 +29,7 @@ title: My lab
 
 年級: 碩士班一年級
 
-電子信箱: <student70226@gmail.com>
+電子信箱: student70226[at]gmail.com
 
 研究興趣: 深度學習
 
@@ -47,7 +47,7 @@ title: My lab
 
 年級: 大學部三年級
 
-電子信箱: <s9352816@gmail.com>
+電子信箱: s9352816[at]gmail.com
 
 研究興趣: 機器預測
 
@@ -61,7 +61,7 @@ title: My lab
 
 年級: 大學部三年級
 
-電子信箱: <ilu6361972@gmail.com>
+電子信箱: ilu6361972[at]gmail.com
 
 研究興趣: 資料探勘
 
@@ -75,7 +75,7 @@ title: My lab
 
 年級: 大學部三年級
 
-電子信箱: <e96031001@gmail.com>
+電子信箱: e96031001[at]gmail.com
 
 研究興趣: 機器學習與預測分析
 
@@ -89,7 +89,7 @@ title: My lab
 
 年級: 大學部三年級
 
-電子信箱: <s1052992@mail.ncyu.edu.tw>
+電子信箱: s1052992[at]mail.ncyu.edu.tw
 
 研究興趣: 機器學習
 
@@ -107,7 +107,7 @@ title: My lab
 
 <!--年級: 碩士班一年級-->
 
-電子信箱: <mebius31111@gmail.com>
+電子信箱: mebius31111[at]gmail.com
 
 研究興趣: 以深度學習為基礎,藉由圖像辨識來搜索物件
 
