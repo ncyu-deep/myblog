@@ -37,19 +37,19 @@ title: My lab
 
 <br/>
 
-<!--<img src="tingwei.png" align="left" style="margin-top:5px; margin-right:81px" alt="Jin-Xian"/>-->
+<img src="tingwei.png" align="left" style="margin-top:5px; margin-right:81px" alt="Jin-Xian"/>
 
-<!--姓名: 張廷瑋-->
+姓名: 張廷瑋
 
-<!--年級: 碩士班一年級-->
+年級: 碩士班一年級
 
-<!--電子信箱: willie20230[at]gmail.com-->
+電子信箱: willie20230[at]gmail.com
 
-<!--研究興趣: 深度學習-->
+研究興趣: 深度學習
 
-<!--<br/>-->
+<br/>
 
-<!--<br/>-->
+<br/>
 
 <hr>
 
