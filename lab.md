@@ -37,7 +37,7 @@ title: My lab
 
 <br/>
 
-<img src="tingwei.png" align="left" style="margin-top:5px; margin-right:81px" alt="Jin-Xian"/>
+<!--<img src="tingwei.png" align="left" style="margin-top:5px; margin-right:81px" alt="Jin-Xian"/>-->
 
 姓名: 張廷瑋
 
