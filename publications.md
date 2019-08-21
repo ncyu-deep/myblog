@@ -5,16 +5,20 @@ title: My publications
 
 <h2 style="text-align: center">Article</h2>
 
-* Robert Küffner, Neta Zach, Maya Bronfeld, Raquel Norel, Nazem Atassi, Venkat Balagurusamy, Barbara di Camillo, Adriano Chio, Merit Cudkowicz, Donna Dillenberger, Javier Garcia-Garcia, Orla Hardiman, Bruce Hoff, Joshua Knight, Melanie Leitner, Guang Li, Lara Mangravite, Thea Norman, Liuxia Wang, ALS stratification consortium, Jinfeng Xiao, Wen-Chieh Fang, Jian Peng, Chen Yang, Huan-Jui Chang, and Gustavo Stolovitzky, “Stratification of amyotrophic lateral sclerosis patients: a crowdsourcing approach,” Scientific Reports, vol. 9, Article number:690, 2019. (SCI journal, 5-year impact factor:4.609). [link](https://www.nature.com/articles/s41598-018-36873-4)
-* Wen-Chieh Fang, Yi-ting Chiang, “A Discriminative Feature Mapping Approach
-to Heterogeneous Domain Adaptation,” Pattern Recognition Letters, vol. 106,
-pp. 13-19, 2018. (SCI journal, 5-year impact factor: 2.350, Top pattern recognition
-and computer vision journal). [link](https://www.sciencedirect.com/science/article/pii/S0167865518300461)
+* Robert Küffner, Neta Zach, Maya Bronfeld, Raquel Norel, Nazem Atassi, Venkat Balagurusamy, Barbara di Camillo, Adriano Chio, Merit Cudkowicz, Donna Dillenberger, Javier Garcia-Garcia, Orla Hardiman, Bruce Hoff, Joshua Knight, Melanie Leitner, Guang Li, Lara Mangravite, Thea Norman, Liuxia Wang, ALS stratification consortium, Jinfeng Xiao, Wen-Chieh Fang, Jian Peng, Chen Yang, Huan-Jui Chang, and Gustavo Stolovitzky, “Stratification of amyotrophic lateral sclerosis patients: a crowdsourcing approach,” Scientific Reports, vol. 9, Article number:690, 2019. (SCI journal, 2018 impact factor:4.525). [link](https://www.nature.com/articles/s41598-018-36873-4)
 * Min-Chun Hu, Kun-chan Lan, Wen-Chieh Fang, Yu-chia Huang, Tsung-Jung
 Ho, Chun-Pang Lin, Ming-Hsien Yeh, Paweeya Raknim, Ying-Hsiu Lin, Ming-
 Hsun Cheng, Yi-Ting He, Kuo-Chih Tseng, "Automated tongue diagnosis on
 the smartphone and its applications," Computer Methods and Programs in
-Biomedicine, 2017, in press. (SCI journal, 5-year impact factor:2.840, The first six authors contributed equally to this work). [link](https://www.sciencedirect.com/science/article/pii/S0169260717308477)
+Biomedicine, vol.174, pp.51-64, 2019. (SCI journal, 2018 impact factor:3.338, The first six authors contributed equally to this work). [link](https://www.sciencedirect.com/science/article/pii/S0169260717308477)
+* Wen-Chieh Fang, Yi-ting Chiang, “A Discriminative Feature Mapping Approach
+to Heterogeneous Domain Adaptation,” Pattern Recognition Letters, vol. 106,
+pp. 13-19, 2018. (SCI journal, 2018 impact factor: 2.822, Top pattern recognition
+and computer vision journal). [link](https://www.sciencedirect.com/science/article/pii/S0167865518300461)
+* Ying Hsiu Lin, Wen-Chieh Fang, Jung-Nien Lai, Hsiu-Chia Cheng, and Kun
+Chan Lan, "On the Efficacy of Chinese Herbs for Survival Rates of Breast
+Cancer Based on Taiwan’s National Health Insurance Research Database
+(Nhird)," Open Access Biostatistics & Bioinformatics, volume 2, issue 1, 2018.
 * Jiann-Yeou Rau, Kai-Wen Hsiao, Jyun-Ping Jhan, Shih Hsiang Wang,
 Wen-Chieh Fang, Jui-Lin Wang, ”Bridge Crack Detection Using Multi-Rotary
 UAV and Object-based Image Analysis,” In Proceedings of the International
