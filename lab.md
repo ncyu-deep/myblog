@@ -77,7 +77,7 @@ title: My lab
 
 電子信箱: huangyubin01[at]gmail.com
 
-研究興趣: 
+研究興趣: 人工智慧、演算法、多媒體 
 
 <br/>
 
