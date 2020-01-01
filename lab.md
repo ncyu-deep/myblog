@@ -41,11 +41,54 @@ title: My lab
 
 <h2 style="text-align: center">Undergraduate students (Independent study)</h2>
 
+<img src="Li-Yi.png" align="left" style="margin-top:5px; margin-right:81px" alt="Li-Yi"/>
+
+姓名: 毛力毅
+
+年級: 大學部三年級
+
+電子信箱: truck010101[at]gmail.com
+
+研究興趣: 機器學習
+
+<br/>
+
+<br/>
+
+<img src="Kun-Hsing.png" align="left" style="margin-top:5px; margin-right:81px" alt="Kun-Hsing"/>
+
+姓名: 蔣昆興
+
+年級: 大學部三年級
+
+電子信箱: neverleave0916[at]gmail.com
+
+研究興趣: IoT, 深度學習
+
+<br/>
+
+<br/>
+
+<img src="Yu-Pin.png" align="left" style="margin-top:5px; margin-right:81px" alt="Yu-Pin"/>
+
+姓名: 黃宇斌
+
+年級: 大學部三年級
+
+電子信箱: huangyubin01[at]gmail.com
+
+研究興趣: 
+
+<br/>
+
+<br/>
+
+
 <img src="lin.png" align="left" style="margin-top:5px; margin-right:81px" alt="lin"/>
 
 姓名: 林桂梅
 
-年級: 大學部三年級
+年級: 大學部四年級
 
 電子信箱: s9352816[at]gmail.com
 
@@ -59,7 +102,7 @@ title: My lab
 
 姓名: 黃珮華
 
-年級: 大學部三年級
+年級: 大學部四年級
 
 電子信箱: ilu6361972[at]gmail.com
 
@@ -73,7 +116,7 @@ title: My lab
 
 姓名: 歐宇哲
 
-年級: 大學部三年級
+年級: 大學部四年級
 
 電子信箱: e96031001[at]gmail.com
 
@@ -87,7 +130,7 @@ title: My lab
 
 姓名: 陳品澔
 
-年級: 大學部三年級
+年級: 大學部四年級
 
 電子信箱: s1052992[at]mail.ncyu.edu.tw
 
@@ -101,7 +144,7 @@ title: My lab
 
 <h2 style="text-align: center">Alumni</h2>
 
-<img src="tingwei.png" align="left" style="margin-top:5px; margin-right:81px" alt="Jin-Xian"/>
+<img src="tingwei.png" align="left" style="margin-top:5px; margin-right:81px" alt="tingwei"/>
 
 姓名: 張廷瑋
 
