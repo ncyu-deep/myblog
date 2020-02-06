@@ -17,7 +17,7 @@ Some current topics of interest are:
 <h2 style="text-align: center">Projects</h2>
 
 <img src="environment.png" align="left" style="margin-top:5px; margin-right:81px; width:200px" alt="environment"/>
-<img src="arch.png" align="left" style="margin-top:5px; margin-right:81px; width:200px" alt="architecture"/>
+<img src="arch.png" align="left" style="margin-top:5px; margin-right:81px; width:200px" alt="architecture"/><br/>
 
 * Topic: Real-time broiler monitoring with YOLO-based detection techniques
 * Abstract: In this work, a real-time YOLO-based broiler monitoring system was implemented and evaluated for use in a broiler house to detect broiler locations and to count
