@@ -38,6 +38,19 @@ As a student, I have spent time at:
 
 <br/>
 <hr/>
+<h2 style="text-align: center">Research Interests</h2>
+
+My research interests include data science, machine learning/deep learning, time-series analysis, and Informatics of traditional
+Chinese medicine.  
+
+Some current topics of interest are: 
+* Survival analysis
+* Social networks
+* Recommender systems
+* Computational cognition
+
+<br/>
+<hr/>
 <h2 style="text-align: center">Prospective Students</h2>
 I am looking for sharp motivated graduate students with interests in data science, machine learning, time-series analysis and AI.  
 <br/>
