@@ -9,19 +9,14 @@ title: My research
 
 <h2 style="text-align: center">2019 Porjects</h2>
 
-<br/>
+<hr>
 
 <h3 style="text-align: left">Real-time broiler monitoring with YOLO-based detection techniques</h3>
-
-<br/>
 
 <div class="frame">
     <img src="environment.png" align="left" style="margin-top:5px; margin-right:81px; width:200px" alt="environment"/>
     <img src="arch.png" align="left" style="margin-top:5px; margin-right:81px; width:200px" alt="architecture"/>
 </div>
-
-
-<br/>
 
 
 <br/>
