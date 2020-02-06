@@ -24,13 +24,18 @@ Some current topics of interest are:
     <img src="arch.png" align="left" style="margin-top:5px; margin-right:81px; width:200px" alt="architecture"/>
 </div>
 
-<br/>
 
 <br/>
 
-<br/>
 
 <br/>
+
+
+<br/>
+
+
+<br/>
+
 
 <br/>
 
