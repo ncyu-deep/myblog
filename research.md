@@ -22,12 +22,6 @@ title: My research
 
 <br/>
 
-
-<br/>
-
-
-<br/>
-
 * Description: In this work, a real-time YOLO-based broiler monitoring system was implemented and evaluated for use in a broiler house to detect broiler locations and to count the broilers. The experimental results show that the proposed monitoring system can successfully perform the broiler detection
 and counting and it can draw the bounding boxes on the detected broilers and show the estimated count number on the screen.
 * Collaborators:
