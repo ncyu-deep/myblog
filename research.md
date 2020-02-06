@@ -22,7 +22,11 @@ Some current topics of interest are:
 </div>
 
 <br/>
+
+
 <br/>
+
+
 <br/>
 
 * Topic: Real-time broiler monitoring with YOLO-based detection techniques
