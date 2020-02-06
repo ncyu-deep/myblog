@@ -30,6 +30,7 @@ and counting and it can draw the bounding boxes on the detected broilers and sho
   * Guei-Mei Lin, Pei-Hua Huang, Ching-Hsien Chao, Cheng-Ta Chiang, and Wen-Chieh Fang, "Real-time broiler monitoring with YOLO-based detection techniques," In Proceedings of the twenty-fourth Conference on Technologies and Applications of Artificial Intelligence (TAAI 2019), 2019.
 
 <br/>
+
 <br/>
 
 <hr>
