@@ -29,3 +29,5 @@ and counting and it can draw the bounding boxes on the detected broilers and sho
 <img src="environment.png" align="left" style="margin-top:5px; margin-right:81px; width:200px" alt="environment"/>
 <img src="arch.png" align="left" style="margin-top:5px; margin-right:81px; width:200px" alt="architecture"/>
 
+<hr>
+
