@@ -14,8 +14,8 @@ title: My research
 <h3 style="text-align: left">Real-time broiler monitoring with YOLO-based detection techniques</h3>
 
 <div class="frame">
-    <img src="environment.png" align="left" style="margin-top:5px; margin-right:81px; width:200px" alt="environment"/>
-    <img src="arch.png" align="left" style="margin-top:5px; margin-right:81px; width:200px" alt="architecture"/>
+    <img src="environment.png" align="center" style="margin-top:5px; margin-right:81px; width:200px" alt="environment"/>
+    <img src="arch.png" align="center" style="margin-top:5px; margin-right:81px; width:200px" alt="architecture"/>
 </div>
 
 
