@@ -17,6 +17,7 @@ Some current topics of interest are:
 <h2 style="text-align: center">Projects</h2>
 
 <img src="environment.png" align="left" style="margin-top:5px; margin-right:81px; width:200px" alt="environment"/>
+
 <img src="arch.png" align="left" style="margin-top:5px; margin-right:81px; width:200px" alt="architecture"/>
 
 <br/>
