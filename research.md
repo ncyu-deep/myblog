@@ -5,6 +5,12 @@ title: My research
 
 <h2 style="text-align: center">Research</h2>
 
+<hr>
+
+<h2 style="text-align: center">2019 Porjects</h2>
+
+<h3 style="text-align: left">Topic: Real-time broiler monitoring with YOLO-based detection techniques</h3>
+
 <br/>
 
 <div class="frame">
@@ -27,9 +33,7 @@ title: My research
 
 <br/>
 
-* Topic: Real-time broiler monitoring with YOLO-based detection techniques
-* Abstract: In this work, a real-time YOLO-based broiler monitoring system was implemented and evaluated for use in a broiler house to detect broiler locations and to count
-the broilers. The experimental results show that the proposed monitoring system can successfully perform the broiler detection
+* Description: In this work, a real-time YOLO-based broiler monitoring system was implemented and evaluated for use in a broiler house to detect broiler locations and to count the broilers. The experimental results show that the proposed monitoring system can successfully perform the broiler detection
 and counting and it can draw the bounding boxes on the detected broilers and show the estimated count number on the screen.
 * Collaborators:
   * Guei-Mei Lin
