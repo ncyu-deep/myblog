@@ -35,7 +35,6 @@ As a student, I have spent time at:
 * [Winner of DREAM ALS Stratification Prize4Life Challenge](http://dreamchallenges.org/dream-9-5-2014-all-stars/)
   * [News](https://www.businesswire.com/news/home/20151105005356/en/Prize4Life-Sage-Bionetworks-DREAM-Announce-Winners-ALS)
   * A global data analysis competition to computationally identify different subgroups of ALS patients.
-
 <br/>
 <hr/>
 <h2 style="text-align: center">Research Interests</h2>
@@ -48,7 +47,6 @@ Some current topics of interest are:
 * Social networks
 * Recommender systems
 * Computational cognition
-
 <br/>
 <hr/>
 <h2 style="text-align: center">Prospective Students</h2>

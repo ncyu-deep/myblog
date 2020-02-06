@@ -9,7 +9,9 @@ title: My research
 
 <h2 style="text-align: center">2019 Porjects</h2>
 
-<h3 style="text-align: left">Topic: Real-time broiler monitoring with YOLO-based detection techniques</h3>
+<br/>
+
+<h3 style="text-align: left">Real-time broiler monitoring with YOLO-based detection techniques</h3>
 
 <br/>
 
