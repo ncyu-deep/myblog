@@ -69,21 +69,6 @@ title: My lab
 
 <br/>
 
-<img src="Yu-Pin.png" align="left" style="margin-top:5px; margin-right:81px" alt="Yu-Pin"/>
-
-姓名: 黃宇斌
-
-年級: 大學部三年級
-
-電子信箱: huangyubin01[at]gmail.com
-
-研究興趣: 人工智慧、演算法、多媒體 
-
-<br/>
-
-<br/>
-
-
 <img src="lin.png" align="left" style="margin-top:5px; margin-right:81px" alt="lin"/>
 
 姓名: 林桂梅
