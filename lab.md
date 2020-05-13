@@ -69,6 +69,34 @@ title: My lab
 
 <br/>
 
+<img src="Jiao-Chuan.png" align="left" style="margin-top:5px; margin-right:81px" alt="Jiao-Chuan"/>
+
+姓名: 黃健全
+
+年級: 大學部三年級
+
+電子信箱: a3813065a[at]gmail.com
+
+研究興趣: 深度學習
+
+<br/>
+
+<br/>
+
+<img src="You-Lin.png" align="left" style="margin-top:5px; margin-right:81px" alt="You-Lin"/>
+
+姓名: 林宥霖
+
+年級: 大學部三年級
+
+電子信箱: sjisjisji0[at]gmail.com
+
+研究興趣: 機器學習
+
+<br/>
+
+<br/>
+
 <img src="lin.png" align="left" style="margin-top:5px; margin-right:81px" alt="lin"/>
 
 姓名: 林桂梅
