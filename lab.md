@@ -129,6 +129,8 @@ title: My lab
 
 <br/>
 
+<br/>
+
 <img src="Pei-Hua.png" align="left" style="margin-top:5px; margin-right:81px" alt="Pei-Hua"/>
 
 姓名: 黃珮華
@@ -138,6 +140,8 @@ title: My lab
 電子信箱: ilu6361972[at]gmail.com
 
 研究興趣: 資料探勘
+
+<br/>
 
 <br/>
 
@@ -157,6 +161,8 @@ title: My lab
 
 <br/>
 
+<br/>
+
 <img src="Pin-Hao.png" align="left" style="margin-top:5px; margin-right:81px" alt="Pin-Hao"/>
 
 姓名: 陳品澔
@@ -171,6 +177,8 @@ title: My lab
 
 <br/>
 
+<br/>
+
 <img src="Ting-Wei.png" align="left" style="margin-top:5px; margin-right:81px" alt="Ting-Wei"/>
 
 姓名: 張廷瑋
@@ -180,6 +188,8 @@ title: My lab
 電子信箱: willie20230[at]gmail.com
 
 研究興趣: 深度學習
+
+<br/>
 
 <br/>
 
