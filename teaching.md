@@ -2,6 +2,7 @@
 layout: default
 title: My teaching
 ---
+* Fall 2020, Fundamentals of programming
 * Spring 2020, Deep learning
 * Spring 2020, Fundamentals of programming
 * Fall 2019, Fundamentals of programming
