@@ -3,7 +3,7 @@ layout: default
 title: My lab
 ---
 
-<h2 style="text-align: center">Machine Intelligence Laboratory (機器智能實驗室)</h2>
+<h2 style="text-align: center">Machine Intelligence Laboratory (機器智慧實驗室)</h2>
 
 <hr>
 
@@ -13,7 +13,7 @@ title: My lab
 
 姓名: 張敬賢
 
-年級: 碩士班一年級
+年級: 碩士班二年級
 
 電子信箱: jim30425[at]gmail.com
 
@@ -23,13 +23,27 @@ title: My lab
 
 <br/>
 
-<img src="Pei-Hsin.png" align="left" style="margin-top:5px; margin-right:81px" alt="Jin-Xian"/>
+<img src="Pei-Hsin.png" align="left" style="margin-top:5px; margin-right:81px" alt="Pei-Hsin"/>
 
 姓名: 謝佩欣
 
-年級: 碩士班一年級
+年級: 碩士班二年級
 
 電子信箱: student70226[at]gmail.com
+
+研究興趣: 深度學習
+
+<br/>
+
+<br/>
+
+<img src="Yi-Cheng.png" align="left" style="margin-top:5px; margin-right:81px" alt="Yi-Cheng"/>
+
+姓名: 蔡易澄
+
+年級: 碩士班一年級
+
+電子信箱: a0912053866a[at]gmail.com
 
 研究興趣: 深度學習
 
@@ -45,7 +59,7 @@ title: My lab
 
 姓名: 毛力毅
 
-年級: 大學部三年級
+年級: 大學部四年級
 
 電子信箱: truck010101[at]gmail.com
 
@@ -59,7 +73,7 @@ title: My lab
 
 姓名: 蔣昆興
 
-年級: 大學部三年級
+年級: 大學部四年級
 
 電子信箱: neverleave0916[at]gmail.com
 
@@ -73,7 +87,7 @@ title: My lab
 
 姓名: 黃健全
 
-年級: 大學部三年級
+年級: 大學部四年級
 
 電子信箱: a3813065a[at]gmail.com
 
@@ -87,65 +101,9 @@ title: My lab
 
 姓名: 林宥霖
 
-年級: 大學部三年級
+年級: 大學部四年級
 
 電子信箱: sjisjisji0[at]gmail.com
-
-研究興趣: 機器學習
-
-<br/>
-
-<br/>
-
-<img src="lin.png" align="left" style="margin-top:5px; margin-right:81px" alt="lin"/>
-
-姓名: 林桂梅
-
-年級: 大學部四年級
-
-電子信箱: s9352816[at]gmail.com
-
-研究興趣: 機器預測
-
-<br/>
-
-<br/>
-
-<img src="huang.png" align="left" style="margin-top:5px; margin-right:81px" alt="huang"/>
-
-姓名: 黃珮華
-
-年級: 大學部四年級
-
-電子信箱: ilu6361972[at]gmail.com
-
-研究興趣: 資料探勘
-
-<br/>
-
-<br/>
-
-<img src="ou.png" align="left" style="margin-top:5px; margin-right:81px" alt="ou"/>
-
-姓名: 歐宇哲
-
-年級: 大學部四年級
-
-電子信箱: e96031001[at]gmail.com
-
-研究興趣: 機器學習與預測分析
-
-<br/>
-
-<br/>
-
-<img src="chen.png" align="left" style="margin-top:5px; margin-right:81px" alt="chen"/>
-
-姓名: 陳品澔
-
-年級: 大學部四年級
-
-電子信箱: s1052992[at]mail.ncyu.edu.tw
 
 研究興趣: 機器學習
 
@@ -157,7 +115,63 @@ title: My lab
 
 <h2 style="text-align: center">Alumni</h2>
 
-<img src="tingwei.png" align="left" style="margin-top:5px; margin-right:81px" alt="tingwei"/>
+<img src="Guei-Mei.png" align="left" style="margin-top:5px; margin-right:81px" alt="Guei-Mei"/>
+
+姓名: 林桂梅
+
+<!--年級: 大學部四年級-->
+
+電子信箱: s9352816[at]gmail.com
+
+研究興趣: 機器預測
+
+<br/>
+
+<br/>
+
+<img src="Pei-Hua.png" align="left" style="margin-top:5px; margin-right:81px" alt="Pei-Hua"/>
+
+姓名: 黃珮華
+
+<!--年級: 大學部四年級-->
+
+電子信箱: ilu6361972[at]gmail.com
+
+研究興趣: 資料探勘
+
+<br/>
+
+<br/>
+
+<img src="Yu-Zhe.png" align="left" style="margin-top:5px; margin-right:81px" alt="Yu-Zhe"/>
+
+姓名: 歐宇哲
+
+<!--年級: 大學部四年級-->
+
+電子信箱: e96031001[at]gmail.com
+
+研究興趣: 機器學習與預測分析
+
+<br/>
+
+<br/>
+
+<img src="Pin-Hao.png" align="left" style="margin-top:5px; margin-right:81px" alt="Pin-Hao"/>
+
+姓名: 陳品澔
+
+<!--年級: 大學部四年級-->
+
+電子信箱: hank85293[at]gmail.com
+
+研究興趣: 機器學習
+
+<br/>
+
+<br/>
+
+<img src="Ting-Wei.png" align="left" style="margin-top:5px; margin-right:81px" alt="Ting-Wei"/>
 
 姓名: 張廷瑋
 
@@ -171,9 +185,7 @@ title: My lab
 
 <br/>
 
-<br/>
-
-<img src="lu.png" align="left" style="margin-top:5px; margin-right:81px" alt="lu"/>
+<img src="Ming-Yu.png" align="left" style="margin-top:5px; margin-right:81px" alt="Ming-Yu"/>
 
 姓名: 呂明育
 
