@@ -37,20 +37,6 @@ title: My lab
 
 <br/>
 
-<img src="Yi-Cheng.png" align="left" style="margin-top:5px; margin-right:81px" alt="Yi-Cheng"/>
-
-姓名: 蔡易澄
-
-年級: 碩士班一年級
-
-電子信箱: a0912053866a[at]gmail.com
-
-研究興趣: 深度學習
-
-<br/>
-
-<br/>
-
 <hr>
 
 <h2 style="text-align: center">Undergraduate students (Independent study)</h2>
@@ -114,6 +100,20 @@ title: My lab
 <hr>
 
 <h2 style="text-align: center">Alumni</h2>
+
+<img src="Yi-Cheng.png" align="left" style="margin-top:5px; margin-right:81px" alt="Yi-Cheng"/>
+
+姓名: 蔡易澄
+
+年級: 碩士班一年級
+
+電子信箱: a0912053866a[at]gmail.com
+
+研究興趣: 深度學習
+
+<br/>
+
+<br/>
 
 <img src="Guei-Mei.png" align="left" style="margin-top:5px; margin-right:81px" alt="Guei-Mei"/>
 
