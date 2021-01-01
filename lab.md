@@ -111,8 +111,6 @@ title: My lab
 
 <br/>
 
-<br/>
-
 <img src="Kun-Hsing.png" align="left" style="margin-top:5px; margin-right:81px" alt="Kun-Hsing"/>
 
 姓名: 蔣昆興
@@ -127,8 +125,6 @@ title: My lab
 
 <br/>
 
-<br/>
-
 <img src="Jiao-Chuan.png" align="left" style="margin-top:5px; margin-right:81px" alt="Jiao-Chuan"/>
 
 姓名: 黃教全
@@ -138,8 +134,6 @@ title: My lab
 電子信箱: a3813065a[at]gmail.com
 
 研究興趣: 深度學習
-
-<br/>
 
 <br/>
 
