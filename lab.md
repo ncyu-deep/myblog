@@ -53,6 +53,8 @@ title: My lab
 
 <br/>
 
+<br/>
+
 <img src="Cheng-Jhih.png" align="left" style="margin-top:5px; margin-right:81px" alt="Cheng-Jhih"/>
 
 姓名: 王成志
@@ -60,6 +62,8 @@ title: My lab
 年級: 資訊工程學系大學部三年級
 
 電子信箱: qazwsxedc123789jkl[at]gmail.com
+
+<br/>
 
 <br/>
 
@@ -77,6 +81,8 @@ title: My lab
 
 <br/>
 
+<br/>
+
 <img src="Zih-Hao.png" align="left" style="margin-top:5px; margin-right:81px" alt="Zih-Hao"/>
 
 姓名: 黃梓豪
@@ -84,6 +90,8 @@ title: My lab
 年級: 資訊工程學系大學部三年級
 
 電子信箱: abc021789[at]gmail.com
+
+<br/>
 
 <br/>
 
@@ -103,6 +111,8 @@ title: My lab
 
 <br/>
 
+<br/>
+
 <img src="Kun-Hsing.png" align="left" style="margin-top:5px; margin-right:81px" alt="Kun-Hsing"/>
 
 姓名: 蔣昆興
@@ -112,6 +122,8 @@ title: My lab
 電子信箱: neverleave0916[at]gmail.com
 
 研究興趣: IoT, 深度學習
+
+<br/>
 
 <br/>
 
@@ -131,6 +143,8 @@ title: My lab
 
 <br/>
 
+<br/>
+
 <img src="You-Lin.png" align="left" style="margin-top:5px; margin-right:81px" alt="You-Lin"/>
 
 姓名: 林宥霖
@@ -140,6 +154,8 @@ title: My lab
 電子信箱: sjisjisji0[at]gmail.com
 
 研究興趣: 機器學習
+
+<br/>
 
 <br/>
 
@@ -158,6 +174,8 @@ title: My lab
 電子信箱: a0912053866a[at]gmail.com
 
 研究興趣: 深度學習
+
+<br/>
 
 <br/>
 
