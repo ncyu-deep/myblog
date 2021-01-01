@@ -23,6 +23,8 @@ title: My lab
 
 <br/>
 
+<br/>
+
 <img src="Pei-Hsin.png" align="left" style="margin-top:5px; margin-right:81px" alt="Pei-Hsin"/>
 
 姓名: 謝佩欣
@@ -111,6 +113,8 @@ title: My lab
 
 <br/>
 
+<br/>
+
 <img src="Kun-Hsing.png" align="left" style="margin-top:5px; margin-right:81px" alt="Kun-Hsing"/>
 
 姓名: 蔣昆興
@@ -120,6 +124,8 @@ title: My lab
 電子信箱: neverleave0916[at]gmail.com
 
 <!--研究興趣: IoT, 深度學習-->
+
+<br/>
 
 <br/>
 
@@ -175,6 +181,8 @@ title: My lab
 
 <br/>
 
+<br/>
+
 <img src="Guei-Mei.png" align="left" style="margin-top:5px; margin-right:81px" alt="Guei-Mei"/>
 
 姓名: 林桂梅
@@ -184,6 +192,8 @@ title: My lab
 電子信箱: s9352816[at]gmail.com
 
 <!--研究興趣: 機器預測-->
+
+<br/>
 
 <br/>
 
@@ -223,6 +233,8 @@ title: My lab
 
 <br/>
 
+<br/>
+
 <img src="Pin-Hao.png" align="left" style="margin-top:5px; margin-right:81px" alt="Pin-Hao"/>
 
 姓名: 陳品澔
@@ -232,6 +244,8 @@ title: My lab
 電子信箱: hank85293[at]gmail.com
 
 <!--研究興趣: 機器學習-->
+
+<br/>
 
 <br/>
 
