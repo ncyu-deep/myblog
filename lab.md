@@ -145,6 +145,8 @@ title: My lab
 
 <br/>
 
+<br/>
+
 <img src="You-Lin.png" align="left" style="margin-top:5px; margin-right:81px" alt="You-Lin"/>
 
 姓名: 林宥霖
@@ -217,6 +219,8 @@ title: My lab
 
 <br/>
 
+<br/>
+
 <img src="Yu-Zhe.png" align="left" style="margin-top:5px; margin-right:81px" alt="Yu-Zhe"/>
 
 姓名: 歐宇哲
@@ -262,6 +266,8 @@ title: My lab
 電子信箱: willie20230[at]gmail.com
 
 <!--研究興趣: 深度學習-->
+
+<br/>
 
 <br/>
 
