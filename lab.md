@@ -39,6 +39,8 @@ title: My lab
 
 <br/>
 
+<br/>
+
 <hr>
 
 <h2 style="text-align: center">Undergraduate students (Independent study)</h2>
@@ -286,6 +288,8 @@ title: My lab
 <!--研究興趣: 以深度學習為基礎,藉由圖像辨識來搜索物件-->
 
 <!--研究主題: 藉由圖像辨識的技術,來搜索農園裡的相關物件,建立一座智慧農園-->
+
+<br/>
 
 <br/>
 
