@@ -7,6 +7,38 @@ title: My lab
 
 <hr>
 
+<h2 style="text-align: center">Lab assistants</h2>
+
+<img src="Hsin-Yi.png" align="left" style="margin-top:5px; margin-right:81px" alt="Hsin-Yi"/>
+
+姓名: 盧欣依
+
+年級: 特殊教育學系二年級
+
+電子信箱: yiyi.1896[at]gmail.com
+
+<br/>
+
+<br/>
+
+<br/>
+
+<img src="Yi-Hsun.png" align="left" style="margin-top:5px; margin-right:81px" alt="Yi-Hsun"/>
+
+姓名: 林怡瑄
+
+年級: 特殊教育學系二年級
+
+電子信箱: atlantis1220alsa[at]gmail.com
+
+<br/>
+
+<br/>
+
+<br/>
+
+<hr>
+
 <h2 style="text-align: center">Master students</h2>
 
 <img src="xian.png" align="left" style="margin-top:5px; margin-right:81px" alt="Jin-Xian"/>
